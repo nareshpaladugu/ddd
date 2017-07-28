@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9196" started-at="2017-07-17T21:53:03Z" finished-at="2017-07-17T21:53:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9196" started-at="2017-07-17T21:53:03Z" finished-at="2017-07-17T21:53:12Z">
+      <class name="com.shi.rtcp.business.driver.TestDriver">
+        <test-method status="PASS" signature="driverTest(java.lang.String)[pri:0, instance:com.shi.rtcp.business.driver.TestDriver@46d56d67]" name="driverTest" duration-ms="9163" started-at="2017-07-17T16:53:03Z" data-provider="scriptProvider" finished-at="2017-07-17T16:53:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C:/Users/vinusha/Desktop/narehs/EndToEndTestFaceBook.xlsx]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverTest -->
+      </class> <!-- com.shi.rtcp.business.driver.TestDriver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
